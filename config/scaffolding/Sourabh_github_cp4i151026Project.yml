@@ -24,7 +24,7 @@ packages:
   gitServerName: srcCtrl_github_Sourabh_Shared2
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
-  gitBranch: main
+  gitBranch: testbranch
 services:
 - serviceName: project.sourabh_github_cp4i151026.integrations:github
   packages:
