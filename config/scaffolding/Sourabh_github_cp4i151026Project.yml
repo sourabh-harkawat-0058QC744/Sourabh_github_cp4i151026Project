@@ -17,9 +17,9 @@ packages:
   wpmRegistry: supported
   wpmVersion: v12.0.0
 - name: Punith_KMAT_Salesforce_Sync
-  gitServerName: Karthik
+  gitServerName: srcCtrl_github_Sourabhshared
   gitUrl: https://github.com/karthikbm
-  gitUsername: karthikbm
+  gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
 services:
 - serviceName: project.sourabh_github_cp4i151026.integrations:github
