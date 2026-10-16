@@ -8,11 +8,19 @@ packages:
   gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
 - name: LowerFSPackage
-  version: "2.0"
-  gitServerName: srcCtrl_github_Sourabhshared
+  gitServerName: srcCtrl_github_Sourabh_Shared2
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
-  gitBranch: nested1/nested2
+  gitBranch: testbranch
+- name: WmAlibabaOSSProvider
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: supported
+  wpmVersion: v12.0.0
+- name: Punith_KMAT_Salesforce_Sync
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
 services:
 - serviceName: project.sourabh_github_cp4i151026.integrations:github
   packages:
